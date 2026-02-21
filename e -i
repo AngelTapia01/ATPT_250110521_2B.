@@ -1,0 +1,180 @@
+error: gpg.ssh.allowedSignersFile needs to be configured and exist for ssh signature verification
+[33mcommit 91802a4fc81a72e9b7afe6fdd8d2e7be41b5c73f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[41mNo signature[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 19:43:50 2026 -0600
+
+    Angel_Tadeo_Pascual_Tapia_250110521@itsoeh.edu.mx
+
+[33mcommit bfda1a9284da72c8486ac596874bf7e0b3233658[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 19:28:30 2026 -0600
+
+    SE modifico el codigo
+
+[33mcommit 33cfefa21c3fb85dd770c54da9db373eab976732[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 18:09:42 2026 -0600
+
+    cambio
+
+[33mcommit 50eeb33728ca51d52d358c82109e4d2f20d8be90[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 18:05:38 2026 -0600
+
+    cambio
+
+[33mcommit aeaa3993d46f43aeb25e7c0c432da401da29957c[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 18:00:53 2026 -0600
+
+    Se modifico el codigo
+
+[33mcommit 375ded0eb053f0d93953fca7b26fc91ec149b4d7[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 17:23:04 2026 -0600
+
+    Se modifico el codigo
+
+[33mcommit 0c31d6ae86a2dfd7d8f792eefe29203a67298944[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 16:58:01 2026 -0600
+
+    Corrigiendo index.html
+
+[33mcommit 7c700011dbb56fcab4f1e61604434d163aa74f3f[m
+Author: AngelTadeoPascualTapia <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 16:29:56 2026 -0600
+
+    Se cambio la pagina
+
+[33mcommit a6fcc9252bf9d3e4964b5bb862effe50d7dc8fb2[m
+Author: AngelTadeoP.T. <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:55:19 2026 -0600
+
+    se cambiaron las imagenes
+
+[33mcommit e890957d80abd5f98d1399d80f97a4467e7a93dd[m
+Author: AngelTadeoP.T. <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:33:45 2026 -0600
+
+    Se agrego index
+
+[33mcommit ec5b193cbd65b253b3add7839cda0e32d58a524f[m
+[41mgpg: Signature made Fri, Feb 20, 2026 12:05:47 AM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 00:05:47 2026 -0600
+
+    Delete README.md
+
+[33mcommit d605df7e0d76d03c67bcfb2854fb920af52d208b[m
+[41mgpg: Signature made Fri, Feb 20, 2026 12:04:09 AM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 00:04:08 2026 -0600
+
+    Add files via upload
+
+[33mcommit ecdb63eb4da53679e9c0b4ae6d016d428ca3e8ac[m
+[41mgpg: Signature made Fri, Feb 20, 2026 12:01:37 AM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 00:01:37 2026 -0600
+
+    Delete README.md
+
+[33mcommit ed0794e90b18bc9a09e0ee5b0c8bd6d3e4cc739a[m
+[41mgpg: Signature made Fri, Feb 20, 2026 12:00:28 AM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Fri Feb 20 00:00:28 2026 -0600
+
+    Delete styles.css
+
+[33mcommit ac13e79d6a8c9492770683fed60043836dc8f08b[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:59:19 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:59:19 2026 -0600
+
+    Delete index.html
+
+[33mcommit cdcc61dc94a6b5bd785a6ca8c4d1397c297fccff[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:58:48 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:58:48 2026 -0600
+
+    Delete imagenes directory
+
+[33mcommit 0f7d8ae4b1f4c3715db887f106638ab3f5e4d589[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:47:22 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:47:21 2026 -0600
+
+    Add files via upload
+
+[33mcommit 9a668ba1d3cbb9b2df4822099c289e8fa3baeb33[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:45:28 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:45:28 2026 -0600
+
+    Delete imagenes directory
+
+[33mcommit 6b917effd1f4b3aeadf0d6812000d83b64e39d06[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:45:20 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:45:20 2026 -0600
+
+    Delete styles.css
+
+[33mcommit 2ec3810fe089d193dcaac6a2694966b71fef3a64[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:45:05 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:45:05 2026 -0600
+
+    Delete index.html
+    
+    resolver error 404
+
+[33mcommit 874b7addaa6f53182bbf0d08a5aa424de5fe27e5[m
+[41mgpg: Signature made Thu, Feb 19, 2026 11:19:13 PM    [m
+[41mgpg:                using RSA key B5690EEEBB952194[m
+[41mgpg: Can't check signature: No public key[m
+Author: AngelTapia01 <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:19:13 2026 -0600
+
+    Create README.md
+
+[33mcommit 587d07f03bc73457c53a6d6f1b4f8d7f2ad308d4[m
+Author: AngelTadeoP.T. <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:15:20 2026 -0600
+
+    Se corrigio el codigo
+
+[33mcommit fb21ebf06c7c58be3e984631e02a83cf2551dd35[m
+Author: AngelTadeoP.T. <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 23:08:39 2026 -0600
+
+    Se removio un archivo
+
+[33mcommit d78c16b272cebd54819d3f545a02fd15c09fbb8f[m
+Author: AngelTadeoP.T. <250110521@itsoeh.edu.mx>
+Date:   Thu Feb 19 22:52:59 2026 -0600
+
+    Se agrego mi proyecto
